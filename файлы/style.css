@@ -1,0 +1,63 @@
+fieldset{
+    width: 150px;
+    height: 350px;
+    margin: 40px auto;
+    border-radius: 20px;
+    background-color: cadetblue;
+    border: 0px solid;
+}
+h1{
+    font-size: x-large;
+    letter-spacing: 0.2em;
+    font-family:monospace;
+    text-transform: uppercase;
+    margin: 0px 350px;
+    position: relative;
+    top: 10px;
+}
+.user_info{
+    width: 280px;
+    margin: 50px 20px;
+}
+.title{
+    float: left;
+    width: 60px;
+    margin: 10px 0px;
+    font-size: large;
+}
+.b_1{
+    margin: 10px 0px;
+    padding: 3px 3px 3px 3px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+.checkbox_size{
+   font-size: large;
+}
+.checkbox{
+    margin: 20px 0px;
+}
+.button_1{
+    width: 100px;
+    padding: 4px 4px 4px 4px;
+    border-radius: 15px;
+    border: 1px solid;
+    font-size: 15px;
+}
+.button_2{
+    width: 100px;
+    padding: 4px 4px 4px 4px;
+    border-radius: 15px;
+    border: 1px solid;
+    margin: 0px 5px;
+    font-size: 15px;
+}
+.button_1:hover{
+    background-color: rgb(73, 137, 186);
+}
+.button_2:hover{
+    background-color: rgb(73, 137, 186);
+}
+body{
+    background-color: rgb(58, 139, 141);
+}

@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(58, 139, 141);
+}
+fieldset{
+    width: 650px;
+    height: 350px;
+    margin: 30px auto;
+    border-radius: 25px;
+    background-color: cadetblue;
+    border: 0px solid;
+}
+.text_h1{
+    text-align: center;
+    font-size: x-large;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin: 10px 0px;
+}
+.user_info{
+    width: 340px;
+    margin: 35px 0px;
+}
+.title{
+    float: left;
+    width: 100px;
+    margin: 5px auto;
+}
+.input{
+    padding: 4px;
+    margin: 2px;
+}
+.user_ch{
+    position: relative;
+    top:-15px;
+    right: 2px;
+}
+.button_kn{
+    padding: 6px;
+    width: 100px;
+    border-radius: 20px;
+}
+.button{
+    margin: 0px 3px;
+}
+.button_kn:hover{
+    background-color: rgb(73, 137, 186);
+}
